@@ -3094,7 +3094,7 @@ int main()
 
                default :
                           cout<<"-------------------------------------------------\n";
-                          cout<<"Thankyou for using Ameya's Generic LinkedList\n";
+                          cout<<"Thankyou for using Deepak's Generic LinkedList\n";
                           cout<<"-------------------------------------------------\n";
           }
 
